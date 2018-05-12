@@ -1,0 +1,27 @@
+_repo: The-Man-from-Jericho_33984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Litsey, Edwin Carlile
+    alias: Litsey, E. Carl (Edwin Carlile)
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '33301'
+    url: http://www.gutenberg.org/2009/agents/33301
+description: ''
+gutenberg_issued: '2010-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+- !lcc 'PS'
+title: The Man from Jericho
+url: http://www.gutenberg.org/ebooks/33984
